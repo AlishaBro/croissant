@@ -1,0 +1,18 @@
+body{
+    background-color:rgb(230, 223, 215);
+    color: rgb(70, 44, 44);
+    text-align: center;
+    margin:20px;
+}
+
+a:link,
+a:visited {
+    color:black
+}
+
+img{
+    max-width: 50%;
+    border-radius: 10px;
+    display: block;
+    margin: 30px auto;
+}
